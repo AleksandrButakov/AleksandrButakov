@@ -3,7 +3,7 @@
 #### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
 ### Languages and tools
 <p>
-  <img width="5%" title="IntelliJ IDEA" src="icons/IntelliJ_IDEA.svg">
+  <img width="5%" title="IntelliJ IDEA" src="icons/IntellijIDEA.svg">
   <img width="5%" title="IntelliJ IDEA" src="icons/Gradle.svg">
   <img width="5%" title="IntelliJ IDEA" src="icons/Github.svg">
   <img width="5%" title="IntelliJ IDEA" src="icons/Java.svg">
