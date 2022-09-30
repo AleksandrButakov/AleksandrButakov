@@ -6,7 +6,7 @@
   <img height=55 title="IntelliJ IDEA" src="icons/IntellijIDEA.svg">
   <img height=55 title="Java" src="icons/Java.svg">
   
-  <img height=55 title="Gradle" src="icons/Gradle.svg">
+  <img height=55 title="Gradle" src="icons/Gradle.png">
   <img height=55 title="GitHub" src="icons/Github.png">
   
   <img height=55 title="JUnit5" src="icons/JUnit5.svg">
