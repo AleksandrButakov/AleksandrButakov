@@ -25,7 +25,7 @@
 
 ### Contacts:
 [<img alt="Email" height="45" src="icons/Gmail.png"/>](mailto:anbngm@gmail.com)
-[<img alt="Telegram" height="55" src="icons/Telegram.png" width="45"/>](https://t.me/anbnH)
+[<img alt="Telegram" height="50" src="icons/Telegram.png"/>](https://t.me/anbnH)
 
 <!--
 **AleksandrButakov/AleksandrButakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
