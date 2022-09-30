@@ -6,7 +6,7 @@
   <img height=100 title="IntelliJ IDEA" src="icons/IntellijIDEA.svg">
   <img width="5%" title="Gradle" src="icons/Gradle.svg">
   <img width="5%" title="GitHub" src="icons/Github.svg">
-  [<img alt="GitHub" height="45" src="icons/Github.png"/>]
+  <img alt="GitHub" height="45" src="icons/Github.png"/>
   <img width="5%" title="Java" src="icons/Java.svg">
   <img width="5%" title="JUnit5" src="icons/JUnit5.svg">
   <img width="5%" title="Rest-Assured" src="icons/Rest-Assured.svg">
