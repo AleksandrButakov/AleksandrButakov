@@ -5,6 +5,10 @@
 <p>
   <img height=55 title="IntelliJ IDEA" src="icons/IntellijIDEA.svg">
   <img height=55 title="Java" src="icons/Java.svg">
+  
+  <img height=55 title="Gradle" src="icons/Gradle.svg">
+  <img height=55 title="GitHub" src="icons/Github.png">
+  
   <img height=55 title="JUnit5" src="icons/JUnit5.svg">
   <img height=55 title="Rest-Assured" src="icons/Rest-Assured.svg">
   <img height=55 title="Selenium" src="icons/Selenium.svg">
@@ -19,8 +23,7 @@
   <img height=55 title="Jira" src="icons/Jira.svg">
   <img height=55 title="Slack" src="icons/Slack.svg">
   <img height=55 title="Telegram" src="icons/Telegram.svg">
-  <img height=55 title="Gradle" src="icons/Gradle.svg">
-  <img height=55 title="GitHub" src="icons/Github.svg">
+
 </p>
 
 ### Contacts:
