@@ -3,29 +3,29 @@
 #### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
 ### Languages and tools:
 <p>
-  <img height=45 title="IntelliJ IDEA" src="icons/IntellijIDEA.svg">
-  <img height=45 title="Java" src="icons/Java.svg">
-  <img height=45 title="JUnit5" src="icons/JUnit5.svg">
-  <img height=45 title="Rest-Assured" src="icons/Rest-Assured.svg">
-  <img height=45 title="Selenium" src="icons/Selenium.svg">
-  <img height=45 title="Selenide" src="icons/Selenide.svg">
-  <img height=45 title="Selenoid" src="icons/Selenoid.svg">
-  <img height=45 title="Allure Report" src="icons/Allure_Report.svg">
-  <img height=45 title="Allure TestOps" src="icons/Allure_TestOps.svg">
-  <img height=45 title="Appium" src="icons/Appium.svg">
-  <img height=45 title="BrowserStack" src="icons/Browserstack.svg">
-  <img height=45 title="Docker" src="icons/Docker.svg">
-  <img height=45 title="Jenkins" src="icons/Jenkins.svg">
-  <img height=45 title="Jira" src="icons/Jira.svg">
-  <img height=45 title="Slack" src="icons/Slack.svg">
-  <img height=45 title="Telegram" src="icons/Telegram.svg">
-  <img height=45 title="Gradle" src="icons/Gradle.svg">
-  <img height=45 title="GitHub" src="icons/Github.svg">
+  <img height=55 title="IntelliJ IDEA" src="icons/IntellijIDEA.svg">
+  <img height=55 title="Java" src="icons/Java.svg">
+  <img height=55 title="JUnit5" src="icons/JUnit5.svg">
+  <img height=55 title="Rest-Assured" src="icons/Rest-Assured.svg">
+  <img height=55 title="Selenium" src="icons/Selenium.svg">
+  <img height=55 title="Selenide" src="icons/Selenide.svg">
+  <img height=55 title="Selenoid" src="icons/Selenoid.svg">
+  <img height=55 title="Allure Report" src="icons/Allure_Report.svg">
+  <img height=55 title="Allure TestOps" src="icons/Allure_TestOps.svg">
+  <img height=55 title="Appium" src="icons/Appium.svg">
+  <img height=55 title="BrowserStack" src="icons/Browserstack.svg">
+  <img height=55 title="Docker" src="icons/Docker.svg">
+  <img height=55 title="Jenkins" src="icons/Jenkins.svg">
+  <img height=55 title="Jira" src="icons/Jira.svg">
+  <img height=55 title="Slack" src="icons/Slack.svg">
+  <img height=55 title="Telegram" src="icons/Telegram.svg">
+  <img height=55 title="Gradle" src="icons/Gradle.svg">
+  <img height=55 title="GitHub" src="icons/Github.svg">
 </p>
 
 ### Contacts:
 [<img alt="Email" height="45" src="icons/Gmail.png"/>](mailto:anbngm@gmail.com)
-[<img alt="Telegram" height="45" src="icons/Telegram.png" width="45"/>](https://t.me/anbnH)
+[<img alt="Telegram" height="55" src="icons/Telegram.png" width="45"/>](https://t.me/anbnH)
 
 <!--
 **AleksandrButakov/AleksandrButakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
