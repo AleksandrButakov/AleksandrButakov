@@ -20,7 +20,9 @@
   <img height=46 title="Jenkins" src="icons/Jenkins.svg">
   <img height=46 title="Jira" src="icons/Jira.svg">
   <img height=46 title="Slack" src="icons/Slack.svg">
+  <!--
   <img height=46 title="Telegram" src="icons/Telegram.svg">
+  -->
 </p>
 
 <!--
