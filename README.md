@@ -30,7 +30,7 @@
 
 ### Activity on GitHub:
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=chartreuse_dark" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=vue" width="100%"/>
 </div>
 
 <!--
