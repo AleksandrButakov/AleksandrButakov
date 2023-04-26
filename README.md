@@ -23,7 +23,6 @@
   <img title="Jira" src="icons/Jira.svg" width="5%">
   <img title="Slack" src="icons/Slack.svg" width="5%">
   <img title="Ubuntu" src="icons/Ubuntu.png" width="5%">
-  <img title="Ubuntu" src="icons/VisualStudio.png" width="5%">
 </div>
 
 ### Activity on GitHub:
