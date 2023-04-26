@@ -20,9 +20,12 @@
   <img title="BrowserStack" src="icons/Browserstack.svg" width="5%">
   <img title="Docker" src="icons/Docker.svg" width="5%">
   <img title="Jenkins" src="icons/Jenkins.svg" width="5%">
+  <!--
   <img title="Jira" src="icons/Jira.svg" width="5%">
   <img title="Slack" src="icons/Slack.svg" width="5%">
+  -->
   <img title="Ubuntu" src="icons/Ubuntu.png" width="5%">
+  <img title="Visual Studio" src="icons/VisualStudio.png" width="5%">
 </div>
 
 ### Activity on GitHub:
