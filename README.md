@@ -4,12 +4,13 @@
 ### Languages and tools:
 
 <div id="stat" align="center">
-  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5.5%">
-  <img title="Java" src="icons/Java.svg" width="5.5%">
+  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5%">
+  <img title="Android Studio" src="icons/Android.png" width="5%">
+  <img title="Java" src="icons/Java.svg" width="5%">
   <img title="Gradle" src="icons/Gradle.png" width="5%">
   <img title="GitHub" src="icons/Github.png" width="5%">
   <img title="JUnit5" src="icons/JUnit5.svg" width="5%">
-  <img title="Rest-Assured" src="icons/Rest-Assured.svg" width="5%">
+  <img title="Rest-Assured" src="icons/Rest-Assured.png" width="5%">
   <img title="Selenium" src="icons/Selenium.svg" width="5%">
   <img title="Selenide" src="icons/Selenide.svg" width="5%">
   <img title="Selenoid" src="icons/Selenoid.svg" width="5%">
@@ -22,12 +23,12 @@
   <img title="Jira" src="icons/Jira.svg" width="5%">
   <img title="Slack" src="icons/Slack.svg" width="5%">
   <img title="Ubuntu" src="icons/Ubuntu.png" width="5%">
+  <img title="Ubuntu" src="icons/VisualStudio.png" width="5%">
 </div>
 
 ### Activity on GitHub:
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=yeblu" width="55%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AleksandrButakov&theme=yeblu&utcOffset=8" width="35%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=chartreuse_dark" width="100%"/>
 </div>
 
 <!--
@@ -47,33 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!--
-
-<p>
-  <img  title="IntelliJ IDEA" src="icons/IntellijIDEA.svg">
-  <img  title="Java" src="icons/Java.svg">
-  <img  title="Gradle" src="icons/Gradle.png">
-  <img  title="GitHub" src="icons/Github.png">
-  <img  title="JUnit5" src="icons/JUnit5.svg">
-  <img  title="Rest-Assured" src="icons/Rest-Assured.svg">
-  <img  title="Selenium" src="icons/Selenium.svg">
-  <img  title="Selenide" src="icons/Selenide.svg">
-  <img  title="Selenoid" src="icons/Selenoid.svg">
-  <img  title="Allure Report" src="icons/Allure_Report.svg">
-  <img  title="Allure TestOps" src="icons/Allure_TestOps.svg">
-  <img  title="Appium" src="icons/Appium.svg">
-  <img  title="BrowserStack" src="icons/Browserstack.svg">
-  <img  title="Docker" src="icons/Docker.svg">
-  <img  title="Jenkins" src="icons/Jenkins.svg">
-  <img  title="Jira" src="icons/Jira.svg">
-  <img  title="Slack" src="icons/Slack.svg">
-  <img  title="Ubuntu" src="icons/Ubuntu.png">
-  <!--
-  <img  title="Telegram" src="icons/Telegram.svg">
-  -->
-  <!--
-</p>
-
-  -->
