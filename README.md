@@ -3,7 +3,9 @@
 #### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
 ### Languages and tools:
 
-<div id="stat" align="left">
+
+
+<div id="stat" align="center">
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="6%">
   <img title="Android Studio" src="icons/Android.png" width="6%">
   <img title="Java" src="icons/Java.svg" width="6%">
@@ -15,7 +17,7 @@
   <img title="Selenide" src="icons/Selenide.svg" width="6%">
 </div>
 
-<div id="stat" align="left">
+<div id="stat" align="center">
   <img title="Selenoid" src="icons/Selenoid.svg" width="6%">
   <img title="Allure Report" src="icons/Allure_Report.svg" width="6%">
   <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="6%">
@@ -34,7 +36,7 @@
 
 ### Activity on GitHub:
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=vue" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=vue" width="90%"/>
 </div>
 
 <!--
