@@ -4,22 +4,22 @@
 ### Languages and tools:
 
 <div id="stat" align="center">
-  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="10%">
-  <img title="Android Studio" src="icons/Android.png" width="10%">
-  <img title="Java" src="icons/Java.svg" width="10%">
-  <img title="Gradle" src="icons/Gradle.png" width="10%">
-  <img title="GitHub" src="icons/Github.png" width="10%">
-  <img title="JUnit5" src="icons/JUnit5.svg" width="10%">
-  <img title="Rest-Assured" src="icons/Rest-Assured.png" width="5%">
-  <img title="Selenium" src="icons/Selenium.svg" width="5%">
-  <img title="Selenide" src="icons/Selenide.svg" width="5%">
-  <img title="Selenoid" src="icons/Selenoid.svg" width="5%">
-  <img title="Allure Report" src="icons/Allure_Report.svg" width="5%">
-  <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="5%">
-  <img title="Appium" src="icons/Appium.svg" width="5%">
-  <img title="BrowserStack" src="icons/Browserstack.svg" width="5%">
-  <img title="Docker" src="icons/Docker.svg" width="5%">
-  <img title="Jenkins" src="icons/Jenkins.svg" width="5%">
+  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="7%">
+  <img title="Android Studio" src="icons/Android.png" width="7%">
+  <img title="Java" src="icons/Java.svg" width="7%">
+  <img title="Gradle" src="icons/Gradle.png" width="7%">
+  <img title="GitHub" src="icons/Github.png" width="7%">
+  <img title="JUnit5" src="icons/JUnit5.svg" width="7%">
+  <img title="Rest-Assured" src="icons/Rest-Assured.png" width="7%">
+  <img title="Selenium" src="icons/Selenium.svg" width="7%">
+  <img title="Selenide" src="icons/Selenide.svg" width="7%">
+  <img title="Selenoid" src="icons/Selenoid.svg" width="7%">
+  <img title="Allure Report" src="icons/Allure_Report.svg" width="7%">
+  <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="7%">
+  <img title="Appium" src="icons/Appium.svg" width="7%">
+  <img title="BrowserStack" src="icons/Browserstack.svg" width="7%">
+  <img title="Docker" src="icons/Docker.svg" width="7%">
+  <img title="Jenkins" src="icons/Jenkins.svg" width="7%">
   <!--
   <img title="Jira" src="icons/Jira.svg" width="5%">
   <img title="Slack" src="icons/Slack.svg" width="5%">
