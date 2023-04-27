@@ -20,7 +20,7 @@
 ### Languages and tools:
 
 <div id="stat" align="center">
-  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="6%">
+  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="4.5%">
   <img title="Android Studio" src="icons/Android.png" width="6%">
   <img title="Java" src="icons/Java.svg" width="6%">
   <img title="Gradle" src="icons/Gradle.png" width="6%">
@@ -29,9 +29,6 @@
   <img title="Rest-Assured" src="icons/Rest-Assured.png" width="6%">
   <img title="Selenium" src="icons/Selenium.svg" width="6%">
   <img title="Selenide" src="icons/Selenide.svg" width="6%">
-</div>
-
-<div id="stat" align="center">
   <img title="Selenoid" src="icons/Selenoid.svg" width="6%">
   <img title="Allure Report" src="icons/Allure_Report.svg" width="6%">
   <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="6%">
@@ -50,7 +47,7 @@
 
 ### Activity on GitHub:
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=vue" width="90%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=vue" width="100%"/>
 </div>
 
 <!--
