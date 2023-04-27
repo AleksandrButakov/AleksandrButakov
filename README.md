@@ -2,7 +2,7 @@
 
 <div id="myhead" align="center">
   ### Hi there 👋 Welcome to my profile
-  <img title="Java" src="icons/Java.svg" width="6%">
+  <img title="Java" src="scheme/sin.png" width="50%">
 </div>
 
 ### About me:
