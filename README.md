@@ -4,12 +4,12 @@
 ### Languages and tools:
 
 <div id="stat" align="center">
-  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5%">
-  <img title="Android Studio" src="icons/Android.png" width="5%">
-  <img title="Java" src="icons/Java.svg" width="5%">
-  <img title="Gradle" src="icons/Gradle.png" width="5%">
-  <img title="GitHub" src="icons/Github.png" width="5%">
-  <img title="JUnit5" src="icons/JUnit5.svg" width="5%">
+  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="10%">
+  <img title="Android Studio" src="icons/Android.png" width="10%">
+  <img title="Java" src="icons/Java.svg" width="10%">
+  <img title="Gradle" src="icons/Gradle.png" width="10%">
+  <img title="GitHub" src="icons/Github.png" width="10%">
+  <img title="JUnit5" src="icons/JUnit5.svg" width="10%">
   <img title="Rest-Assured" src="icons/Rest-Assured.png" width="5%">
   <img title="Selenium" src="icons/Selenium.svg" width="5%">
   <img title="Selenide" src="icons/Selenide.svg" width="5%">
