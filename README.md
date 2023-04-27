@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my profile
 
   <div id="f2" width="45%">
-    <img title="Java" src="scheme/text.png">
+    <img title="My letter" src="scheme/text.png">
   </div>
 
 
