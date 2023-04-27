@@ -11,6 +11,25 @@
     </div>
 </div>
 
+<div id="block1">Текст</div>
+<div id="block2">Текст</div>
+
+#block1 {
+float: left;
+display: block;
+width: 300px;
+border: 1px solid blue;
+margin: 2px;
+}
+
+#block2 {
+float: left;
+display: block;
+width: 300px;
+border: 1px solid blue;
+margin: 2px;
+}
+
 
 <!--
 ### About me:
