@@ -5,8 +5,8 @@
 
 ### Languages and tools:
 
-<div id="stat" align="center">
-  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="4.5%">
+<div id="stat1" align="left">
+  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="6%">
   <img title="Android Studio" src="icons/Android.png" width="6%">
   <img title="Java" src="icons/Java.svg" width="6%">
   <img title="Gradle" src="icons/Gradle.png" width="6%">
@@ -19,6 +19,9 @@
   <img title="Allure Report" src="icons/Allure_Report.svg" width="6%">
   <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="6%">
   <img title="Appium" src="icons/Appium.svg" width="6%">
+</div>
+
+<div id="stat2" align="left">
   <img title="BrowserStack" src="icons/Browserstack.svg" width="6%">
   <img title="Docker" src="icons/Docker.svg" width="6%">
   <img title="Jenkins" src="icons/Jenkins.svg" width="6%">
