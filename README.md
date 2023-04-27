@@ -1,5 +1,10 @@
 ### Hi there 👋 Welcome to my profile
 
+<div id="header" align="center">
+  <h1>Hi there! Welcome to my profile</h1>
+  <h3>Quality Assurance engineer</h3>
+  </div>
+
 ### About me:
 #### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
 
