@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to my profile
 
 <div id="myhead" align="center">
-  <head>### Hi there 👋 Welcome to my profile</head>
-    <img title="Java" src="icons/Java.svg" width="6%">
+  ### Hi there 👋 Welcome to my profile
+  <img title="Java" src="icons/Java.svg" width="6%">
 </div>
 
 ### About me:
