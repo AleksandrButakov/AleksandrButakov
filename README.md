@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile
 
-  <div id="f2" width="45%">
+  <div id="f1" align="center">
     <img title="My letter" src="scheme/text.png">
   </div>
 
