@@ -1,15 +1,20 @@
 ### Hi there 👋 Welcome to my profile
 
 <div id="myhead" align="center">
-  ### Hi there 👋 Welcome to my profile
-  <img title="Java" src="scheme/sin.png" width="50%">
+
+  <div id="f1" align="center" width="45%">
+    ### Hi there 👋 Welcome to my profile
+    #### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
+    </div>
+  <div id="f2" align="center" width="45%">
+    <img title="Java" src="scheme/math.png" width="50%">
+    </div>
+
 </div>
 
 ### About me:
 #### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
 ### Languages and tools:
-
-
 
 <div id="stat" align="center">
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="6%">
