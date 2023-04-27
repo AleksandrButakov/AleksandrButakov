@@ -3,11 +3,11 @@
 -->
 
 <div id="header" align="center">
-  <h1>Hi there 👋 Welcome to my profile</h1>  
+  <h2>Hi there 👋 Welcome to my profile</h1>  
 </div>
 
 <div id="body" align="center">
-  <h3>I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.</h3>
+  <h4>I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.</h3>
 </div>
 
 <!--
@@ -18,7 +18,7 @@
 -->
 <hr>
 <div id="body" align="center">
-  <h3>Languages and tools:</h3>
+  <h4>Languages and tools:</h3>
 </div>
 
 <div id="stat1" align="center">
@@ -44,16 +44,19 @@
   <img title="Ubuntu" src="icons/Ubuntu.png" width="6%">
   <img title="Visual Studio" src="icons/VisualStudio.png" width="6%">
 </div>
-<hr>
 
   <!--
   <img title="Jira" src="icons/Jira.svg" width="5%">
   <img title="Slack" src="icons/Slack.svg" width="5%">
   -->
 
-
 <hr>
+<div id="body" align="center">
+  <h4>Activity on GitHub:</h3>
+</div>
+<!--
 ### Activity on GitHub:
+-->
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=vue" width="100%"/>
 </div>
