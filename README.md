@@ -1,7 +1,6 @@
-<!--
 ### Hi there 👋 Welcome to my profile
--->
 
+<!--
 <div id="header" align="center">
   <h2>Hi there 👋 Welcome to my profile</h1>  
 </div>
@@ -9,19 +8,21 @@
 <div id="body" align="center">
   <h4>I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.</h3>
 </div>
+-->
 
-<!--
 ### About me:
 #### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
 
 ### Languages and tools:
--->
+
+<!--
 <hr>
 <div id="body" align="center">
   <h4>Languages and tools:</h3>
 </div>
+-->
 
-<div id="stat1" align="center">
+<div id="stat1">
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="6%">
   <img title="Android Studio" src="icons/Android.png" width="6%">
   <img title="Java" src="icons/Java.svg" width="6%">
@@ -37,7 +38,7 @@
   <img title="Appium" src="icons/Appium.svg" width="6%">
 </div>
 
-<div id="stat2" align="center">
+<div id="stat2">
   <img title="BrowserStack" src="icons/Browserstack.svg" width="6%">
   <img title="Docker" src="icons/Docker.svg" width="6%">
   <img title="Jenkins" src="icons/Jenkins.svg" width="6%">
@@ -50,13 +51,14 @@
   <img title="Slack" src="icons/Slack.svg" width="5%">
   -->
 
+<!--
 <hr>
 <div id="body" align="center">
   <h4>Activity on GitHub:</h3>
 </div>
-<!--
-### Activity on GitHub:
 -->
+
+### Activity on GitHub:
 <div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=vue" width="100%"/>
 </div>
