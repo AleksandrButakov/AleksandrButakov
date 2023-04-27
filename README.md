@@ -19,11 +19,11 @@
   <img title="Allure Report" src="icons/Allure_Report.svg" width="6%">
   <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="6%">
   <img title="Appium" src="icons/Appium.svg" width="6%">
+  <img title="BrowserStack" src="icons/Browserstack.svg" width="6%">
+  <img title="Docker" src="icons/Docker.svg" width="6%">
 </div>
 
 <div id="stat2" align="left">
-  <img title="BrowserStack" src="icons/Browserstack.svg" width="6%">
-  <img title="Docker" src="icons/Docker.svg" width="6%">
   <img title="Jenkins" src="icons/Jenkins.svg" width="6%">
   <img title="Ubuntu" src="icons/Ubuntu.png" width="6%">
   <img title="Visual Studio" src="icons/VisualStudio.png" width="6%">
