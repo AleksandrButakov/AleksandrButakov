@@ -1,6 +1,9 @@
 ### Hi there 👋 Welcome to my profile
-<head>### Hi there 👋 Welcome to my profile</head>
-  
+
+<div id="myhead" align="center">
+  <head>### Hi there 👋 Welcome to my profile</head>
+    <img title="Java" src="icons/Java.svg" width="6%">
+</div>
 
 ### About me:
 #### I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
