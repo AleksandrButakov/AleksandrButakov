@@ -6,12 +6,12 @@
 ### Languages and tools:
 <div id="stat1">
 
-
+<p>
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="6%">
   <img title="Android Studio" src="icons/Android.png" width="6%">
   <img title="Java" src="icons/Java.svg" width="6%">
   <img title="Gradle" src="icons/Gradle.png" width="6%">
-  <img title="GitHub" src="icons/Github.png" width="6%">
+<a href="https://github.com/"><img title="GitHub" src="icons/Github.png" width="6%">
   
 <a href="https://junit.org/junit5/"><img title="JUnit5" src="icons/JUnit5.svg" width="6%"></a>
 
@@ -28,6 +28,8 @@
   <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="6%">
   <img title="Appium" src="icons/Appium.svg" width="6%">
   <img title="BrowserStack" src="icons/Browserstack.svg" width="6%">
+
+</p>
 </div>
 
 <div id="stat2">
