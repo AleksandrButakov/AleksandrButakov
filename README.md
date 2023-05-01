@@ -5,13 +5,15 @@
 
 ### Languages and tools:
 <div id="stat1">
+
+
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="6%">
   <img title="Android Studio" src="icons/Android.png" width="6%">
   <img title="Java" src="icons/Java.svg" width="6%">
   <img title="Gradle" src="icons/Gradle.png" width="6%">
   <img title="GitHub" src="icons/Github.png" width="6%">
   
-<p><a href="https://junit.org/junit5/"><img title="JUnit5" src="icons/JUnit5.svg" width="6%"></a></p>
+<a href="https://junit.org/junit5/"><img title="JUnit5" src="icons/JUnit5.svg" width="6%"></a>
 
 <!--
    <p><a href="sample.html"><img src="images/sample.gif" width="50" 
