@@ -6,7 +6,7 @@
 ### Languages and tools:
 <div id="stat1">
 
-<p>
+
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="6%">
   <img title="Android Studio" src="icons/Android.png" width="6%">
   <img title="Java" src="icons/Java.svg" width="6%">
@@ -29,7 +29,7 @@
   <img title="Appium" src="icons/Appium.svg" width="6%">
   <img title="BrowserStack" src="icons/Browserstack.svg" width="6%">
 
-</p>
+
 </div>
 
 <div id="stat2">
