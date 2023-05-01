@@ -10,7 +10,14 @@
   <img title="Java" src="icons/Java.svg" width="6%">
   <img title="Gradle" src="icons/Gradle.png" width="6%">
   <img title="GitHub" src="icons/Github.png" width="6%">
-  <img title="JUnit5" src="icons/JUnit5.svg" width="6%">
+  
+<p><a href="https://junit.org/junit5/"><img title="JUnit5" src="icons/JUnit5.svg" width="6%"></a></p>
+
+<!--
+   <p><a href="sample.html"><img src="images/sample.gif" width="50" 
+   height="50" alt="Пример"></a></p>
+-->
+
   <img title="Rest-Assured" src="icons/Rest-Assured.png" width="6%">
   <img title="Selenium" src="icons/Selenium.svg" width="6%">
   <img title="Selenide" src="icons/Selenide.svg" width="6%">
