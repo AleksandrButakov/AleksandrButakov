@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my profile
 
 ### About me:
-I'm QA Automation engineer, actively increasing my skills in this direction. I have successful experience in relevant areas. I worked as an engineer of information transmission and distribution systems. I have experience in mobile development, programming controllers in assembly language, building IP and synchronous networks, and much, much more. I like electronics and technologies related to it.
+I am a QA automation engineer, actively improving my qualifications. I have successful experience in the relevant fields. In addition to QA I was involved in mobile development, assembly language programming of controllers, experience in building regional IP networks, synchronous networks and much more. I like electronics and technologies related to it.
 
 ### Languages and tools:
 <div id="stat1">
