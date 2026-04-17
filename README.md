@@ -19,9 +19,9 @@ I am a QA automation engineer, actively improving my qualifications. I have succ
   <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="5%">
   <img title="Appium" src="icons/Appium.svg" width="5%">
   <img title="BrowserStack" src="icons/Browserstack.svg" width="5%">
-</div>
+<!-- </div> -->
 
-<div id="stat2">
+<!-- <div id="stat2"> -->
   <img title="Docker" src="icons/Docker.svg" width="5%">
   <img title="Jenkins" src="icons/Jenkins.svg" width="5%">
   <img title="Ubuntu" src="icons/Ubuntu.png" width="5%">
