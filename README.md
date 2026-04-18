@@ -30,7 +30,7 @@ I am a QA automation engineer, actively improving my qualifications. I have succ
 
 ### Activity on GitHub:
 <div id="stat" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=github_dark&hide_title=true" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=github_dark&hide_border=true" width="100%"/>
 </div>
 
 <!--
