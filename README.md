@@ -28,9 +28,9 @@ I am a QA automation engineer, actively improving my qualifications. I have succ
   <img title="Visual Studio" src="icons/VisualStudio.png" width="5%">
 </div>
 
-### Activity on GitHub:
+<!-- ### Activity on GitHub: -->
 <!-- <div id="stat" align="center"> -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=github_dark&hide_title=true" width="100%"/>
+<!--  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=github_dark&hide_title=true" width="100%"/> -->
 <!-- </div> -->
 
 <!--
