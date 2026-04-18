@@ -29,9 +29,9 @@ I am a QA automation engineer, actively improving my qualifications. I have succ
 </div>
 
 ### Activity on GitHub:
-<div id="stat" align="center">
+<!-- <div id="stat" align="center"> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=github_dark&hide_title=true" width="100%"/>
-</div>
+<!-- </div> -->
 
 <!--
 ### Contacts:
