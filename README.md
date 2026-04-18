@@ -1,9 +1,6 @@
-### Hi there 👋 Welcome to my profile
-
-### About me:
 <!-- I am a QA automation engineer, actively improving my qualifications. I have successful experience in the relevant fields. In addition to QA I was involved in mobile development, assembly language programming of controllers, experience in building regional IP networks, synchronous networks and much more. I like electronics and technologies related to it. -->
 
-I am a QA Automation Engineer with a systems & low-level engineering background, focused on building reliable and scalable test automation systems for UI and API testing.
+<!-- I am a QA Automation Engineer with a systems & low-level engineering background, focused on building reliable and scalable test automation systems for UI and API testing.
 
 I design and maintain test automation frameworks with a strong emphasis on stability, maintainability, and integration into CI/CD pipelines.
 
@@ -16,7 +13,12 @@ My technical background also includes:
 
 This enables me to understand software systems end-to-end — from hardware and network layers up to distributed application services.
 
-I am particularly interested in engineering solutions that combine software systems with hardware-level and network-level technologies, as well as improving system reliability through automation.
+I am particularly interested in engineering solutions that combine software systems with hardware-level and network-level technologies, as well as improving system reliability through automation. -->
+## Profile
+
+QA Automation Engineer with a systems and low-level engineering background. Focused on building scalable, reliable test automation and CI/CD-driven quality systems for UI and API.
+
+Systems thinker working across application, network, and hardware layers. Interested in reliability engineering, distributed systems, and hardware–software systems interaction.
 
 ### Languages and tools:
 <div id="stat1">
