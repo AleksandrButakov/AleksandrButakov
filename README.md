@@ -11,11 +11,34 @@ Systems thinker working across application, network, and hardware layers. Passio
 * **Continuous Growth:** Finalizing the advanced **Java Developer. Professional** program at **OTUS** (capstone project: a high-load FinTech money transfer backend paired with a custom multithreaded test automation framework).
 
 ### Languages and tools:
-### Languages and tools:
 
-| Backend & Data | Test Automation & QA | Infrastructure & DevOps |
-| :---: | :---: | :---: |
-| <img title="Java" src="icons/java.png" width="6%"> <img title="Spring" src="icons/spring.png" width="5%"> <img title="PostgreSQL" src="icons/postgresql.png" width="5%"> <img title="Kafka" src="icons/kafka.png" width="5%"> | <img title="Selenide" src="icons/Selenide.svg" width="5%"> <img title="Selenium" src="icons/Selenium.svg" width="5%"> <img title="Selenoid" src="icons/Selenoid.svg" width="5%"> <img title="JUnit5" src="icons/JUnit5.svg" width="5%"> <img title="Allure Report" src="icons/Allure_Report.svg" width="5%"> <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="5%"> <img title="REST Assured" src="icons/Rest-Assured.png" width="5%"> <img title="Appium" src="icons/Appium.svg" width="5%"> <img title="Android Studio" src="icons/Android.png" width="5%"> <img title="BrowserStack" src="icons/Browserstack.svg" width="5%"> | <img title="Docker" src="icons/Docker.svg" width="5%">  <img title="Ubuntu" src="icons/Ubuntu.png" width="5%"> <img title="Jenkins" src="icons/Jenkins.svg" width="5%"> <img title="Gradle" src="icons/Gradle.png" width="5%"> <img title="GitHub" src="icons/Github.png" width="5%"> <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5%"> <img title="Visual Studio" src="icons/VisualStudio.png" width="5%"> |
+> **Backend & Data:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> <img title="Java" src="icons/java.png" width="42" height="42" align="absmiddle" /> &nbsp;
+> <img title="Spring" src="icons/spring.png" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="PostgreSQL" src="icons/postgresql.png" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Kafka" src="icons/kafka.png" width="38" height="38" align="absmiddle" />
+>
+> **QA & Automation:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> <img title="Selenide" src="icons/Selenide.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Selenium" src="icons/Selenium.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Selenoid" src="icons/Selenoid.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="JUnit5" src="icons/JUnit5.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Allure Report" src="icons/Allure_Report.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="REST Assured" src="icons/Rest-Assured.png" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Appium" src="icons/Appium.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Android Studio" src="icons/Android.png" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="BrowserStack" src="icons/Browserstack.svg" width="38" height="38" align="absmiddle" />
+>
+> **Infra & DevOps:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> <img title="Docker" src="icons/Docker.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Ubuntu" src="icons/Ubuntu.png" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Jenkins" src="icons/Jenkins.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Gradle" src="icons/Gradle.png" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="GitHub" src="icons/Github.png" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="38" height="38" align="absmiddle" /> &nbsp;
+> <img title="Visual Studio" src="icons/VisualStudio.png" width="38" height="38" align="absmiddle" />
+
 
 
 
