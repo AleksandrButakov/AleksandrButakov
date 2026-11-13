@@ -12,6 +12,17 @@ Systems thinker working across application, network, and hardware layers. Passio
 
 ### Languages and tools:
 <div id="stat1">
+
+<!-- Spring -->
+<img src="https://githubusercontent.com" alt="Spring" width="36" height="36" />
+
+<!-- PostgreSQL -->
+<img src="https://githubusercontent.com" alt="PostgreSQL" width="36" height="36" />
+
+<!-- Apache Kafka -->
+<img src="https://githubusercontent.com" alt="Apache Kafka" width="36" height="36" />
+
+  
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5%">
   <img title="Android Studio" src="icons/Android.png" width="5%">
   <img title="Java" src="icons/Java.svg" width="5%">
