@@ -34,7 +34,8 @@ Systems thinker working across application, network, and hardware layers. Passio
   <img title="Ubuntu" src="icons/Ubuntu.png" width="5%">
   <img title="Visual Studio" src="icons/VisualStudio.png" width="5%">
 
-  
-
+  <img title="Spring Boot" src="icons/spring.png" width="5%">
+  <img title="PostgreSQL" src="icons/postgresql.png" width="5%">
+  <img title="Kafka" src="icons/kafka.png" width="5%">
   
 </div>
