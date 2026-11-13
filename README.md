@@ -13,7 +13,7 @@ Systems thinker working across application, network, and hardware layers. Passio
 ### Languages and tools:
 <div id="stat1">  
   <!-- Языки, база и бэкенд (Главный фокус на первой строчке): -->
-  <img title="Java" src="icons/java.png" width="5%">
+  <img title="Java" src="icons/java.png" width="6%">
   <img title="Spring" src="icons/spring.png" width="5%">
   <img title="PostgreSQL" src="icons/postgresql.png" width="5%">
   <img title="Kafka" src="icons/kafka.png" width="5%">
