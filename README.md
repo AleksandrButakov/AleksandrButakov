@@ -15,26 +15,7 @@ Systems thinker working across application, network, and hardware layers. Passio
 
 | Backend & Data | Test Automation & QA | Infrastructure & DevOps |
 | :---: | :---: | :---: |
-| <img title="Java" src="icons/java.png" width="6%"> <img title="Spring" src="icons/spring.png" width="5%"> <img title="PostgreSQL" src="icons/postgresql.png" width="5%"> <img title="Kafka" src="icons/kafka.png" width="5%"> |
-  <img title="Selenide" src="icons/Selenide.svg" width="5%">
-  <img title="Selenium" src="icons/Selenium.svg" width="5%">
-  <img title="Selenoid" src="icons/Selenoid.svg" width="5%">
-  <img title="JUnit5" src="icons/JUnit5.svg" width="5%">
-  <img title="Allure Report" src="icons/Allure_Report.svg" width="5%">
-  <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="5%">
-  <img title="REST Assured" src="icons/Rest-Assured.png" width="5%">
-  <img title="Appium" src="icons/Appium.svg" width="5%">
-  <img title="Android Studio" src="icons/Android.png" width="5%">
-  <img title="BrowserStack" src="icons/Browserstack.svg" width="5%">
-| <!-- Инфраструктура, сборка и CI/CD -->
-  <img title="Docker" src="icons/Docker.svg" width="5%">
-  <img title="Ubuntu" src="icons/Ubuntu.png" width="5%">
-  <img title="Jenkins" src="icons/Jenkins.svg" width="5%">
-  <img title="Gradle" src="icons/Gradle.png" width="5%">
-  <img title="GitHub" src="icons/Github.png" width="5%">
-  <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5%">
-  <img title="Visual Studio" src="icons/VisualStudio.png" width="5%">
-|
+| <img title="Java" src="icons/java.png" width="6%"> <img title="Spring" src="icons/spring.png" width="5%"> <img title="PostgreSQL" src="icons/postgresql.png" width="5%"> <img title="Kafka" src="icons/kafka.png" width="5%"> | <img title="Selenide" src="icons/Selenide.svg" width="5%"> <img title="Selenium" src="icons/Selenium.svg" width="5%"> <img title="Selenoid" src="icons/Selenoid.svg" width="5%"> <img title="JUnit5" src="icons/JUnit5.svg" width="5%"> <img title="Allure Report" src="icons/Allure_Report.svg" width="5%"> <img title="Allure TestOps" src="icons/Allure_TestOps.svg" width="5%"> <img title="REST Assured" src="icons/Rest-Assured.png" width="5%"> <img title="Appium" src="icons/Appium.svg" width="5%"> <img title="Android Studio" src="icons/Android.png" width="5%"> <img title="BrowserStack" src="icons/Browserstack.svg" width="5%"> | <img title="Docker" src="icons/Docker.svg" width="5%">  <img title="Ubuntu" src="icons/Ubuntu.png" width="5%"> <img title="Jenkins" src="icons/Jenkins.svg" width="5%"> <img title="Gradle" src="icons/Gradle.png" width="5%"> <img title="GitHub" src="icons/Github.png" width="5%"> <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5%"> <img title="Visual Studio" src="icons/VisualStudio.png" width="5%"> |
 
 
 
