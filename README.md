@@ -33,13 +33,10 @@ Systems thinker working across application, network, and hardware layers. Passio
   <img title="Jenkins" src="icons/Jenkins.svg" width="5%">
   <img title="Ubuntu" src="icons/Ubuntu.png" width="5%">
   <img title="Visual Studio" src="icons/VisualStudio.png" width="5%">
+
+<img src="https://jsdelivr.net" alt="Spring" width="36" height="36" />
+<img src="https://jsdelivr.net" alt="PostgreSQL" width="36" height="36" />
+<img src="https://jsdelivr.net" alt="Apache Kafka" width="36" height="36" />
+
+  
 </div>
-
-<!-- Spring -->
-<img src="https://githubusercontent.com" alt="Spring" width="36" height="36" />
-
-<!-- PostgreSQL -->
-<img src="https://githubusercontent.com" alt="PostgreSQL" width="36" height="36" />
-
-<!-- Apache Kafka -->
-<img src="https://githubusercontent.com" alt="Apache Kafka" width="36" height="36" />
