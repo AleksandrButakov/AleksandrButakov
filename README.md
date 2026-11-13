@@ -11,18 +11,7 @@ Systems thinker working across application, network, and hardware layers. Passio
 * **Continuous Growth:** Finalizing the advanced **Java Developer. Professional** program at **OTUS** (capstone project: a high-load FinTech money transfer backend paired with a custom multithreaded test automation framework).
 
 ### Languages and tools:
-<div id="stat1">
-
-<!-- Spring -->
-<img src="https://githubusercontent.com" alt="Spring" width="36" height="36" />
-
-<!-- PostgreSQL -->
-<img src="https://githubusercontent.com" alt="PostgreSQL" width="36" height="36" />
-
-<!-- Apache Kafka -->
-<img src="https://githubusercontent.com" alt="Apache Kafka" width="36" height="36" />
-
-  
+<div id="stat1">  
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5%">
   <img title="Android Studio" src="icons/Android.png" width="5%">
   <img title="Java" src="icons/Java.svg" width="5%">
@@ -46,25 +35,11 @@ Systems thinker working across application, network, and hardware layers. Passio
   <img title="Visual Studio" src="icons/VisualStudio.png" width="5%">
 </div>
 
-<!-- ### Activity on GitHub: -->
-<!-- <div id="stat" align="center"> -->
-<!--  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrButakov&theme=github_dark&hide_title=true" width="100%"/> -->
-<!-- </div> -->
+<!-- Spring -->
+<img src="https://githubusercontent.com" alt="Spring" width="36" height="36" />
 
-<!--
-### Contacts:
-[<img alt="Email" height="45" src="icons/Gmail.png"/>](mailto:anbngm@gmail.com)
-[<img alt="Telegram" height="50" src="icons/Telegram.png"/>](https://t.me/anbnH)
+<!-- PostgreSQL -->
+<img src="https://githubusercontent.com" alt="PostgreSQL" width="36" height="36" />
 
-**AleksandrButakov/AleksandrButakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Apache Kafka -->
+<img src="https://githubusercontent.com" alt="Apache Kafka" width="36" height="36" />
