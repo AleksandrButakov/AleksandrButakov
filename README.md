@@ -1,24 +1,14 @@
-<!-- I am a QA automation engineer, actively improving my qualifications. I have successful experience in the relevant fields. In addition to QA I was involved in mobile development, assembly language programming of controllers, experience in building regional IP networks, synchronous networks and much more. I like electronics and technologies related to it. -->
-
-<!-- I am a QA Automation Engineer with a systems & low-level engineering background, focused on building reliable and scalable test automation systems for UI and API testing.
-
-I design and maintain test automation frameworks with a strong emphasis on stability, maintainability, and integration into CI/CD pipelines.
-
-I have strong experience in test architecture, CI/CD integration, and quality engineering practices in real-world production environments.
-
-My technical background also includes:
-- mobile application development
-- low-level programming (microcontrollers, assembly language)
-- networking (regional IP networks, synchronous and distributed systems)
-
-This enables me to understand software systems end-to-end — from hardware and network layers up to distributed application services.
-
-I am particularly interested in engineering solutions that combine software systems with hardware-level and network-level technologies, as well as improving system reliability through automation. -->
 ## Profile
 
-QA Automation Engineer with a systems and low-level engineering background. Focused on building scalable, reliable test automation and CI/CD-driven quality systems for UI and API.
+**Senior SDET / QA Automation Architect** with a systems and low-level engineering background. Focused on building scalable, high-performance test automation engines and CI/CD-driven quality systems for distributed backend architectures.
 
-Systems thinker working across application, network, and hardware layers. Interested in reliability engineering, distributed systems, and hardware–software systems interaction.
+Systems thinker working across application, network, and hardware layers. Passionate about Clean Code, SOLID principles, concurrency, reliability engineering, and hardware–software interaction.
+
+### Key Highlights & Engineering Experience:
+* **High-Performance Automation Architecture:** Designed and built a thread-safe Java test automation engine from scratch (SOLID, Clean Code) with hardware-bound linear scalability, achieving a **5x speedup** in regression suite execution.
+* **FinTech & Distributed Systems:** Deep hands-on experience testing core banking systems (ABS CFT), microservices, event-driven architectures (**Apache Kafka**), and optimizing database connection pools (**PostgreSQL**, **HikariCP**).
+* **AI-Driven Engineering & Tooling:** Built custom internal QA tools and browser extensions, including programmatic **LLM API integrations (OpenRouter)** via a custom backend. Actively leveraging autonomous AI coding agents (**OpenCode**) in daily workflows.
+* **Continuous Growth:** Finalizing the advanced **Java Developer. Professional** program at **OTUS** (capstone project: a high-load FinTech money transfer backend paired with a custom multithreaded test automation framework).
 
 ### Languages and tools:
 <div id="stat1">
