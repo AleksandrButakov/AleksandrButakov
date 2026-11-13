@@ -15,12 +15,7 @@ Systems thinker working across application, network, and hardware layers. Passio
 
 | Backend & Data | Test Automation & QA | Infrastructure & DevOps |
 | :---: | :---: | :---: |
-| <!-- Языки, база и бэкенд (Главный фокус на первой строчке): -->
-  <img title="Java" src="icons/java.png" width="6%">
-  <img title="Spring" src="icons/spring.png" width="5%">
-  <img title="PostgreSQL" src="icons/postgresql.png" width="5%">
-  <img title="Kafka" src="icons/kafka.png" width="5%">
-| <!-- Автоматизация тестирования -->
+| <img title="Java" src="icons/java.png" width="6%"> <img title="Spring" src="icons/spring.png" width="5%"> <img title="PostgreSQL" src="icons/postgresql.png" width="5%"> <img title="Kafka" src="icons/kafka.png" width="5%"> |
   <img title="Selenide" src="icons/Selenide.svg" width="5%">
   <img title="Selenium" src="icons/Selenium.svg" width="5%">
   <img title="Selenoid" src="icons/Selenoid.svg" width="5%">
