@@ -14,7 +14,7 @@ Systems thinker working across application, network, and hardware layers. Passio
 <div id="stat1">  
   <img title="IntelliJ IDEA" src="icons/IntellijIDEA.svg" width="5%">
   <img title="Android Studio" src="icons/Android.png" width="5%">
-  <img title="Java" src="icons/Java.svg" width="5%">
+  <img title="Java" src="icons/java.png" width="5%">
   <img title="Gradle" src="icons/Gradle.png" width="5%">
   <img title="GitHub" src="icons/Github.png" width="5%">
   <img title="JUnit5" src="icons/JUnit5.svg" width="5%">
